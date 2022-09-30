@@ -18,7 +18,7 @@ Personal list of ressources for geospatial data science, remote sensing , satell
 ## Machine Learning
 
 - [Machine Learning Complete](https://github.com/Nyandwi/machine_learning_complete) (by@Jeande_d) Foundational Python, followed by every significant application of Machine Learning and Deep Learning.
-- [Made with ML](https://madewithml.com/) (by @GokuMohandas)Goku’s perfect course flow will take you from 0 to MLOps Engineer at the perfect level of difficulty.Foundations in coding and modeling through to deployment in a customer-facing application.
+- [Made with ML](https://madewithml.com/) (by @GokuMohandas) Goku’s perfect course flow will take you from 0 to MLOps Engineer at the perfect level of difficulty.Foundations in coding and modeling through to deployment in a customer-facing application.
 - [Homemade Machine Learning](https://github.com/trekhleb/homemade-machine-learning). Popular machine learning algorithms implemented in Python with explanations of the underlying math. 
 - ![](https://raw.githubusercontent.com/jbbarre/geospatial_datascience/main/github.png)[500 AI-ML Projects](https://github.com/ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code ). Over 500 projects in Deep Learning, Reinforcement Learning, Machine Learning, Computer Vision, and NLP. Bookmark for inspiration and instruction with your own projects - this repo comes with code and is updated continuously.
 - [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets). 70+ comprehensive cheatsheets in Python, SQL, R, math, business intuition. You can’t learn everything here, but bookmark this as a resource for your learning.
