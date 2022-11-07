@@ -24,7 +24,7 @@ Personal list of ressources for geospatial data science, remote sensing , satell
 - [Data Science Cheatsheets](https://github.com/FavioVazquez/ds-cheatsheets). 70+ comprehensive cheatsheets in Python, SQL, R, math, business intuition. You can’t learn everything here, but bookmark this as a resource for your learning.
 - [Awesome Machine Learning](https://github.com/josephmisiti/awesome-machine-learning). A curated list of awesome machine learning frameworks, libraries and software. Use this as home base to discover resources for the next topic you want to learn.
 - [Awesome Data Science](https://github.com/academic/awesome-datascience). An open source data science repository to learn and apply towards real-world problems. Use this as a list of courses and learning material to start learning data science.
-- [Machine Learning Visualization] (https://github.com/MonitSharma/Machine-Learning-Visualizations) by [Monit Sharma](https://github.com/MonitSharma)
+- [Machine Learning Visualization](https://github.com/MonitSharma/Machine-Learning-Visualizations) by [Monit Sharma](https://github.com/MonitSharma)
 
 
 ## Python
